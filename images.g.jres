@@ -1,0 +1,12 @@
+{
+    "W=u@#yM-a^BP$tGz6{": {
+        "data": "hwQQABAAAAAAAAD///8AAAAAAN/u/f8AAAAA/+/t/v8AAAAA7+3u/gAAAADv7u39AAAAAO/u7f0AAAAA7+3t/gAAAADv7e3+AAAAAO/t7v0AAAAA7+3u/QAAAADv7u39AAAAAO/u7f4AAAAA7+3t/gAAAP/v7f3/AAAA3+7+/wAAAAD///8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "boatImg"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
